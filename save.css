@@ -1,0 +1,12 @@
+
+start of videos
+.videos{
+
+    height: 300px;
+    background-color: greenyellow;
+    text-align: center;
+}
+.videos h1{
+    color: white;
+}
+/* End of videos */

@@ -1,0 +1,49 @@
+/* start of clients */
+
+.clients{
+    margin: 20px;
+    
+}
+.our-clients h3{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.people{
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.labore{
+ 
+    width: 400px;
+    margin-right: 40px;
+}
+.photos{
+    
+    margin-left: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        box-sizing: border-box;
+    
+
+    
+}
+
+.photos1{
+   
+    width: 400px;
+        margin: 10px;
+        margin-left: 50px;
+        padding: 10px;
+        box-sizing: border-box;
+        justify-content: space-around;
+    
+}
+.photos1 h2{
+    color: green;
+}
+End of clients
